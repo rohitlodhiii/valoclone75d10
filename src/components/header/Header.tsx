@@ -15,7 +15,7 @@ const Header: FC = () => (
       <a className="mr-2"
         target={"_blank"}
         rel="noreferrer"
-        href="https://github.com/MostafaEllethy/valorant-clone"
+        href="https://github.com/rohitlodhiii/valoclone75d10"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
