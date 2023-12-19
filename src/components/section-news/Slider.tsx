@@ -8,15 +8,15 @@ const news: News[] = [
   {
     id: 1,
     img: SliderImg1,
-    author: "dev",
-    date: "03/08/22",
+    author: "bhupinder",
+    date: "19/12/23",
     title: "Performance Boost: VALORANT’s Global Invalidation",
   },
   {
     id: 2,
     img: SliderImg2,
     author: "Announcements",
-    date: "03/05/22",
+    date: "18/12/23",
     title:
       "Riot is Donating Battle Pass Sales to Humanitarian Relief in Eastern Europe",
   },
@@ -24,7 +24,7 @@ const news: News[] = [
     id: 3,
     img: SliderImg3,
     author: "Game Updates",
-    date: "03/03/22",
+    date: "17/12/23",
     title: "Deep Dive Into 4.04 Controller Agents Changes",
   },
 ];
