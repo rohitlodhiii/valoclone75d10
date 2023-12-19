@@ -40,7 +40,7 @@ const Act2: FC = () => {
                 text-[3.4375rem] md:text-[6.25rem] lg:text-[7.5rem]
                 "
             >
-              <SectionHeadMotion>DISRUPTION</SectionHeadMotion>
+              <SectionHeadMotion>EVOLUTION</SectionHeadMotion>
             </h2>
           </div>
         </div>
